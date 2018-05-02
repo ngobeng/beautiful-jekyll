@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About NgoBEng 
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+NgoBEng (Ngobrol Bareng Engineer) adalah podcast yang membahas seputar software engineering dan industri informatika. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### HOST 
 
-What else do you need?
+![Image of Wahyu](/img/wahyu-circle.png){: style="width: 200px"}
 
-### my history
+**Wahyu Sumartha Priya Dharma**
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Polyglot Developer but Big Fan of Swift Programming Language. His interest quite vary from Mobile Development and recently playing around with Machine Learning. He loves to talk with people rather than computer that's why he started this podcast. 
+
+[Github](http://github.com/wahyusumartha)
