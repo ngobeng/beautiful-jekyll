@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Episode 1 - Ngobrol Bareng Rizal Muthi Tentang Kerja di Envato
+title: Episode 1 - Ngobrol Bareng Rizal Muthi Tentang Kerja di Envato 
 image: /img/rizal.jpg
-share-img: /img/rizal.jpg
 tags: rizalmuthi envato ruby podcasts
 ---
 
-Pada episode perdana kali ini, **NgoBEng** akan ngobrol bareng Rizal Muthi. Ruby Developer asal Indonesia yang saat ini bekerja di Envato. Envato merupakan suatu grup perusahaan digital *marketplaces* untuk aset-aset digital, termasuk tema website, grafis, video, audio, fotografi, dan 3D Models.
+Pada episode perdana kali ini, **NgoBEng** akan ngobrol bareng Rizal Muthi. Ruby Developer asal Indonesia yang saat ini bekerja di Envato. Envato merupakan suatu grup perusahaan digital *marketplaces* untuk aset-aset digital, termasuk tema website, grafis, video, audio, fotografi, dan 3D Models. 
 
 Selama kurang lebih 30 menit, Rizal (sapaan akrab Rizal Muthi) dan NgoBEng akan ngobrol tentang perjalanannya sehingga bisa bekerja di Envato dan *Engineering Culture* yang diterapkan di Envato.
 
