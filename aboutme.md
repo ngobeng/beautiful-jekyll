@@ -1,6 +1,6 @@
 ---
+title: About NgoBEng
 layout: page
-title: About NgoBEng 
 subtitle: 
 ---
 
